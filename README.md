@@ -1,2 +1,17 @@
-# Mobile-Sales-Data-Analysis-Project
-Analyzed Motorola mobile sales data with ₹769M revenue, 19K units sold, and 4K+ transactions using Power BI. Built an interactive dashboard with KPI cards, map visuals, trend analysis, payment insights, and dynamic slicers for brand, customer, and sales performance analysis.
+# Mobile Sales Data Analysis Dashboard
+
+## Tools Used
+- Power BI
+
+## Project Overview
+Analyzed mobile sales data to identify revenue trends, brand performance, customer purchasing behavior, and payment preferences through an interactive Power BI dashboard.
+
+## Key Insights
+- Analyzed ₹769M total revenue with 19K units sold
+- Evaluated 4K+ customer transactions
+- City-wise sales distribution using map visualization
+- Brand and model performance comparison
+- Payment method and monthly sales trend analysis
+- Interactive slicers for dynamic customer-level insights
+```
+
